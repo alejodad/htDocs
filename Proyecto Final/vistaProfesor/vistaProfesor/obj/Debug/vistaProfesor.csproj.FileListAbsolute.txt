@@ -1,0 +1,17 @@
+C:\Users\JENNIFER\Desktop\Sena2017\Fase ll\Desarrollo de Aplicaciones DESKTOP\Proyecto Final\vistaProfesor\vistaProfesor\bin\Debug\vistaProfesor.exe.config
+C:\Users\JENNIFER\Desktop\Sena2017\Fase ll\Desarrollo de Aplicaciones DESKTOP\Proyecto Final\vistaProfesor\vistaProfesor\bin\Debug\vistaProfesor.exe
+C:\Users\JENNIFER\Desktop\Sena2017\Fase ll\Desarrollo de Aplicaciones DESKTOP\Proyecto Final\vistaProfesor\vistaProfesor\bin\Debug\vistaProfesor.pdb
+C:\Users\JENNIFER\Desktop\Sena2017\Fase ll\Desarrollo de Aplicaciones DESKTOP\Proyecto Final\vistaProfesor\vistaProfesor\bin\Debug\Llib_ln_maestro.dll
+C:\Users\JENNIFER\Desktop\Sena2017\Fase ll\Desarrollo de Aplicaciones DESKTOP\Proyecto Final\vistaProfesor\vistaProfesor\bin\Debug\LibConexionBD.dll
+C:\Users\JENNIFER\Desktop\Sena2017\Fase ll\Desarrollo de Aplicaciones DESKTOP\Proyecto Final\vistaProfesor\vistaProfesor\bin\Debug\LibParametro.dll
+C:\Users\JENNIFER\Desktop\Sena2017\Fase ll\Desarrollo de Aplicaciones DESKTOP\Proyecto Final\vistaProfesor\vistaProfesor\bin\Debug\Llib_ln_maestro.pdb
+C:\Users\JENNIFER\Desktop\Sena2017\Fase ll\Desarrollo de Aplicaciones DESKTOP\Proyecto Final\vistaProfesor\vistaProfesor\bin\Debug\LibConexionBD.pdb
+C:\Users\JENNIFER\Desktop\Sena2017\Fase ll\Desarrollo de Aplicaciones DESKTOP\Proyecto Final\vistaProfesor\vistaProfesor\bin\Debug\LibParametro.pdb
+C:\Users\JENNIFER\Desktop\Sena2017\Fase ll\Desarrollo de Aplicaciones DESKTOP\Proyecto Final\vistaProfesor\vistaProfesor\obj\Debug\vistaProfesor.csprojResolveAssemblyReference.cache
+C:\Users\JENNIFER\Desktop\Sena2017\Fase ll\Desarrollo de Aplicaciones DESKTOP\Proyecto Final\vistaProfesor\vistaProfesor\obj\Debug\vistaProfesor.Form1.resources
+C:\Users\JENNIFER\Desktop\Sena2017\Fase ll\Desarrollo de Aplicaciones DESKTOP\Proyecto Final\vistaProfesor\vistaProfesor\obj\Debug\vistaProfesor.Properties.Resources.resources
+C:\Users\JENNIFER\Desktop\Sena2017\Fase ll\Desarrollo de Aplicaciones DESKTOP\Proyecto Final\vistaProfesor\vistaProfesor\obj\Debug\vistaProfesor.csproj.GenerateResource.Cache
+C:\Users\JENNIFER\Desktop\Sena2017\Fase ll\Desarrollo de Aplicaciones DESKTOP\Proyecto Final\vistaProfesor\vistaProfesor\obj\Debug\vistaProfesor.exe
+C:\Users\JENNIFER\Desktop\Sena2017\Fase ll\Desarrollo de Aplicaciones DESKTOP\Proyecto Final\vistaProfesor\vistaProfesor\obj\Debug\vistaProfesor.pdb
+C:\Users\JENNIFER\Desktop\Sena2017\Fase ll\Desarrollo de Aplicaciones DESKTOP\Proyecto Final\vistaProfesor\vistaProfesor\bin\Debug\LibLlenarGrid.dll
+C:\Users\JENNIFER\Desktop\Sena2017\Fase ll\Desarrollo de Aplicaciones DESKTOP\Proyecto Final\vistaProfesor\vistaProfesor\bin\Debug\LibLlenarGrid.pdb

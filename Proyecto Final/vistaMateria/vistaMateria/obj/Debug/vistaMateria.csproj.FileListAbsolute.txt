@@ -1,0 +1,17 @@
+C:\Users\JENNIFER\Desktop\Sena2017\Fase ll\Desarrollo de Aplicaciones DESKTOP\Proyecto Final\vistaMateria\vistaMateria\bin\Debug\vistaMateria.exe.config
+C:\Users\JENNIFER\Desktop\Sena2017\Fase ll\Desarrollo de Aplicaciones DESKTOP\Proyecto Final\vistaMateria\vistaMateria\bin\Debug\vistaMateria.exe
+C:\Users\JENNIFER\Desktop\Sena2017\Fase ll\Desarrollo de Aplicaciones DESKTOP\Proyecto Final\vistaMateria\vistaMateria\bin\Debug\vistaMateria.pdb
+C:\Users\JENNIFER\Desktop\Sena2017\Fase ll\Desarrollo de Aplicaciones DESKTOP\Proyecto Final\vistaMateria\vistaMateria\bin\Debug\Lib_ln_materia.dll
+C:\Users\JENNIFER\Desktop\Sena2017\Fase ll\Desarrollo de Aplicaciones DESKTOP\Proyecto Final\vistaMateria\vistaMateria\bin\Debug\LibConexionBD.dll
+C:\Users\JENNIFER\Desktop\Sena2017\Fase ll\Desarrollo de Aplicaciones DESKTOP\Proyecto Final\vistaMateria\vistaMateria\bin\Debug\LibLlenarGrid.dll
+C:\Users\JENNIFER\Desktop\Sena2017\Fase ll\Desarrollo de Aplicaciones DESKTOP\Proyecto Final\vistaMateria\vistaMateria\bin\Debug\LibParametro.dll
+C:\Users\JENNIFER\Desktop\Sena2017\Fase ll\Desarrollo de Aplicaciones DESKTOP\Proyecto Final\vistaMateria\vistaMateria\bin\Debug\Lib_ln_materia.pdb
+C:\Users\JENNIFER\Desktop\Sena2017\Fase ll\Desarrollo de Aplicaciones DESKTOP\Proyecto Final\vistaMateria\vistaMateria\bin\Debug\LibConexionBD.pdb
+C:\Users\JENNIFER\Desktop\Sena2017\Fase ll\Desarrollo de Aplicaciones DESKTOP\Proyecto Final\vistaMateria\vistaMateria\bin\Debug\LibLlenarGrid.pdb
+C:\Users\JENNIFER\Desktop\Sena2017\Fase ll\Desarrollo de Aplicaciones DESKTOP\Proyecto Final\vistaMateria\vistaMateria\bin\Debug\LibParametro.pdb
+C:\Users\JENNIFER\Desktop\Sena2017\Fase ll\Desarrollo de Aplicaciones DESKTOP\Proyecto Final\vistaMateria\vistaMateria\obj\Debug\vistaMateria.csprojResolveAssemblyReference.cache
+C:\Users\JENNIFER\Desktop\Sena2017\Fase ll\Desarrollo de Aplicaciones DESKTOP\Proyecto Final\vistaMateria\vistaMateria\obj\Debug\vistaMateria.Form1.resources
+C:\Users\JENNIFER\Desktop\Sena2017\Fase ll\Desarrollo de Aplicaciones DESKTOP\Proyecto Final\vistaMateria\vistaMateria\obj\Debug\vistaMateria.Properties.Resources.resources
+C:\Users\JENNIFER\Desktop\Sena2017\Fase ll\Desarrollo de Aplicaciones DESKTOP\Proyecto Final\vistaMateria\vistaMateria\obj\Debug\vistaMateria.csproj.GenerateResource.Cache
+C:\Users\JENNIFER\Desktop\Sena2017\Fase ll\Desarrollo de Aplicaciones DESKTOP\Proyecto Final\vistaMateria\vistaMateria\obj\Debug\vistaMateria.exe
+C:\Users\JENNIFER\Desktop\Sena2017\Fase ll\Desarrollo de Aplicaciones DESKTOP\Proyecto Final\vistaMateria\vistaMateria\obj\Debug\vistaMateria.pdb

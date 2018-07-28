@@ -1,0 +1,12 @@
+C:\Users\JENNIFER\Desktop\Sena2017\Fase ll\Desarrollo de Aplicaciones DESKTOP\Proyecto Final\Lib_ln_materia\Lib_ln_materia\bin\Debug\Lib_ln_materia.dll
+C:\Users\JENNIFER\Desktop\Sena2017\Fase ll\Desarrollo de Aplicaciones DESKTOP\Proyecto Final\Lib_ln_materia\Lib_ln_materia\bin\Debug\Lib_ln_materia.pdb
+C:\Users\JENNIFER\Desktop\Sena2017\Fase ll\Desarrollo de Aplicaciones DESKTOP\Proyecto Final\Lib_ln_materia\Lib_ln_materia\bin\Debug\LibConexionBD.dll
+C:\Users\JENNIFER\Desktop\Sena2017\Fase ll\Desarrollo de Aplicaciones DESKTOP\Proyecto Final\Lib_ln_materia\Lib_ln_materia\bin\Debug\LibLlenarGrid.dll
+C:\Users\JENNIFER\Desktop\Sena2017\Fase ll\Desarrollo de Aplicaciones DESKTOP\Proyecto Final\Lib_ln_materia\Lib_ln_materia\bin\Debug\LibParametro.dll
+C:\Users\JENNIFER\Desktop\Sena2017\Fase ll\Desarrollo de Aplicaciones DESKTOP\Proyecto Final\Lib_ln_materia\Lib_ln_materia\bin\Debug\LibConexionBD.pdb
+C:\Users\JENNIFER\Desktop\Sena2017\Fase ll\Desarrollo de Aplicaciones DESKTOP\Proyecto Final\Lib_ln_materia\Lib_ln_materia\bin\Debug\LibLlenarGrid.pdb
+C:\Users\JENNIFER\Desktop\Sena2017\Fase ll\Desarrollo de Aplicaciones DESKTOP\Proyecto Final\Lib_ln_materia\Lib_ln_materia\bin\Debug\LibParametro.pdb
+C:\Users\JENNIFER\Desktop\Sena2017\Fase ll\Desarrollo de Aplicaciones DESKTOP\Proyecto Final\Lib_ln_materia\Lib_ln_materia\obj\Debug\Lib_ln_materia.dll
+C:\Users\JENNIFER\Desktop\Sena2017\Fase ll\Desarrollo de Aplicaciones DESKTOP\Proyecto Final\Lib_ln_materia\Lib_ln_materia\obj\Debug\Lib_ln_materia.pdb
+C:\Users\JENNIFER\Desktop\Sena2017\Fase ll\Desarrollo de Aplicaciones DESKTOP\Proyecto Final\Lib_ln_materia\Lib_ln_materia\bin\Debug\LibLlenarCombos.dll
+C:\Users\JENNIFER\Desktop\Sena2017\Fase ll\Desarrollo de Aplicaciones DESKTOP\Proyecto Final\Lib_ln_materia\Lib_ln_materia\bin\Debug\LibLlenarCombos.pdb
